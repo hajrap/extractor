@@ -1,0 +1,10 @@
+{
+    "sourceApimName": "apim-corenonprod01-integration-00",
+    "destinationApimName": "apim-corenonprod01-integration-01",
+    "resourceGroup": "rg-corenonprod01-integration-00",
+    "fileFolder": "dev/data-feed-api",
+    "apiName": "data-feed-api",
+    "paramApiLoggerId": "true",
+    "paramLogResourceId": "true",
+    "baseFileName": "api"
+  }
